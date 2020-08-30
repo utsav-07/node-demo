@@ -6,7 +6,7 @@ router.get("/", function (req, res, next) {
   res.render("index", {
     title: "Express",
     message: "express js starter project",
-    welcome: "swagatam To",
+    welcome: "swagatam To utsav",
   });
 });
 
